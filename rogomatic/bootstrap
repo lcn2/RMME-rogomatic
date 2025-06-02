@@ -1,3 +1,3 @@
-#! /bin/sh
+#!/usr/bin/env bash
 
-exec autoreconf -fvi
+env PERL5LIB= PERL_LOCAL_LIB_ROOT= autoreconf -f -i
