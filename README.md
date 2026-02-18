@@ -1,4 +1,4 @@
-# OBSILETE
+# OBSOLETE
 
 This repo is obsolete.  Please use this repo instead:
 
