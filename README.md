@@ -1,3 +1,13 @@
+# OBSILETE
+
+This repo is obsolete.  Please use this repo instead:
+
+https://github.com/lcn2/rogomatic
+
+along with this BSD rogue5.4 repo:
+
+https://github.com/lcn2/rogue5.4
+
 # Rogomatic
 
   A version of Rog-O-Matic along with a version of Rogue that I have used for testing and my debugging scripts and vt terminal testing programs.
